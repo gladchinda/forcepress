@@ -1,0 +1,6 @@
+{
+  "name": "forcepress",
+  "private": true,
+  "workspaces": ["packages/*"],
+  "scripts": {}
+}
